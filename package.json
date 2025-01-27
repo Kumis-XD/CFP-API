@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "name": "cfp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumis-XD/CFP-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kumis-XD/CFP-API/issues"
+  },
+  "homepage": "https://github.com/Kumis-XD/CFP-API#readme"
 }
